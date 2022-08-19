@@ -25,3 +25,13 @@ The code:
 · B2: the last bullet point*
 
 *Between both of them each line will be a different bullet point
+
+
+Pasaríamos de un archivo html como el siguiente:
+
+![image](https://user-images.githubusercontent.com/89532567/185655537-aa121f50-3609-46ec-a888-75aaa685f159.png)
+
+
+A un archivo docx como el siguiente:
+
+![image](https://user-images.githubusercontent.com/89532567/185654297-6d337a33-62ed-4ba4-b81b-6e9f4339f22c.png)
