@@ -34,8 +34,6 @@ content1 = content1.replace("", "")
 
 
 title = fichero[(fichero.index('Downloads')+len('Downloads/')):fichero.index(' - Note')]
-
-content1 = content1[(content1.index('Front Matter') + len('Front Matter')):]
 content1 = content1.replace("\n\n\n", "\n")
 
 notes = len(list(re.findall(r"\bNote\b", content1)))
